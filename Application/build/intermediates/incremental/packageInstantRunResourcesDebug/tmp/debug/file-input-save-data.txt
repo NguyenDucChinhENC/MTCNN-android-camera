@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Nov 28 00:23:53 ICT 2018
+1.base=/Users/admin/workspaces/android/android-Camera2Basic/Application/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=trump2.jpg
+0.set=ASSET
+0.base=/Users/admin/workspaces/android/android-Camera2Basic/Application/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+1.path=mtcnn_freezed_model.pb
